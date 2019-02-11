@@ -168,6 +168,10 @@ footer {
   color: #E3AE57;
 }
 
+.color-black {
+  color: black;
+}
+
 .bg-yellow {
   background: #E3AE57;
 }
@@ -200,6 +204,10 @@ a {
 a:hover, a:active, a:focus {
   color: #E3AE57;
   outline: none;
+}
+
+.color-white-hover:hover{
+  color: white;
 }
 
 * {
@@ -356,7 +364,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  background: url('../images/jonah.jpeg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
