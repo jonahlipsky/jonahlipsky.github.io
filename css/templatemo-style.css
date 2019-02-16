@@ -550,6 +550,10 @@ a:hover, a:active, a:focus {
   padding-bottom: 6px;
 }
 
+.contact-info p{
+  font-size: 22px;
+}
+
 #contact .form-control::-moz-placeholder{color:#ffffff;opacity:1}
 #contact .form-control:-ms-input-placeholder{color:#ffffff}
 #contact .form-control::-webkit-input-placeholder{color:#ffffff}
